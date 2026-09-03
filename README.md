@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="meme.png" alt="AI Bias Meme">
+  <img src="image.png" alt="AI Bias Meme">
 </p>
 
 # Responsible AI: Project 2 (Generative AI Fairness)
 
 This repository contains the materials for **Project 2** of the course **02517 Responsible AI: Algorithmic Fairness and Explainability**.
 
-In this project, you will investigate how bias manifests in large generative language models using the BBQ (Bias Benchmark for QA) dataset. 
+In this project, you will @Stella. 
 
 ## Environment Setup (Google Colab)
 
