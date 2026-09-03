@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+pandas
+numpy
+seaborn
+datasets
+transformers
+torch
+huggingface_hub
+tqdm
