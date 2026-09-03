@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="meme.jpg" alt="AI Bias Meme">
+  <img src="meme.png" alt="AI Bias Meme">
 </p>
 
 # Responsible AI: Project 2 (Generative AI Fairness)
@@ -26,7 +26,7 @@ To avoid local environment setup issues and ensure you have enough compute power
    !pip install -r requirements.txt
    ```
 
-## Part II: Jailbreak Competition
+## Part II: Competition
 As part of your final submission, you will create a custom evaluation dataset designed to expose bias in the models. Upload your custom `custom_dataset.json` to DTU Learn alongside your A0 Poster. The TA will evaluate the first 10 examples from each group on a secret hold-out model to calculate the bias score. 
 
 The team that exposes the most bias wins!
